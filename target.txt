@@ -1,0 +1,5 @@
+#target.txt
+https://ip:port/
+https://ip:port/filestore/
+http://ip:port/filestore
+http://ip:port
